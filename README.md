@@ -9,6 +9,7 @@ To write a C program to implement a symbol table.
 8.	Stop the program. 
 
 ## PROGRAM
+```
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
@@ -62,7 +63,7 @@ for (i = 0; i < x; i++) {
 return 0;
 }
 
-
+```
 ## OUTPUT 
 
 ![image](https://github.com/user-attachments/assets/a113c1d9-f2f6-4b16-8623-726fa3ca00ef)
